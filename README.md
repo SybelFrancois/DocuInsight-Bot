@@ -6,10 +6,10 @@ DocuInsight-Bot is a sophisticated bot designed to read and answer queries from 
 
 **Features**
 
-    Document Upload: Supports both PDF and DOCX file formats.
-    Encrypted PDF Handling: Efficiently handles encrypted PDFs, extracting information for user queries.
-    OpenAI Integration: Powered by OpenAI's GPT-4 model, enabling the bot to understand and respond to complex queries.
-    User-Friendly Interface: Built with Streamlit, providing an intuitive and interactive user experience.
+    1. Document Upload: Supports both PDF and DOCX file formats
+    2. Encrypted PDF Handling: Efficiently handles encrypted PDFs, extracting information for user queries
+    3. OpenAI Integration: Powered by OpenAI's GPT-4 model, enabling the bot to understand and respond to complex queries
+    4. User-Friendly Interface: Built with Streamlit, providing an intuitive and interactive user experience
 
 # Getting Started
 
